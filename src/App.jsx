@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from './styles';
-import {Navbar, Hero, Stats, Business, Billing, CardDeal, Testimonials, Clients, CTA, Footer} from './components';
+import {Navbar, Hero, Stats, Business, Billing, CardDeal, Testimonials, Clients, CTA, Footer} from './components/Index';
 const App = () => {
   return (
     <div className="bg-primary w-full overflow-hidden">
